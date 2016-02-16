@@ -1,0 +1,62 @@
+/*GLOBAL STYLES*/
+
+main{
+    width:90%;
+    margin:20px auto;
+}
+
+footer {
+    background-color: #FF7900;
+    height:300px;
+    text-align:center;
+    padding:40px;
+}
+
+h1 {
+    
+}
+
+header {
+    background-color:#FF7900;
+    height:200px;
+    padding:40px;
+}
+
+p {
+    
+}
+
+a {
+    
+}
+
+
+/*BUTTON STYLES*/
+
+
+.button {
+    background-color:#FF7900;
+    padding:15px 22px;
+    border-radius:6px;
+    color:white;
+    text-decoration:none;
+}
+
+.button:hover {
+    background-color:#FF0033;
+}
+footer p {
+    color:#FFFFFF;
+    text-align:center;
+    font-size:;
+}
+body{
+    margin:0px;
+}
+
+/*OTHER SYLES*/
+
+.imageCenter {
+    display:block;
+    margin:0px auto;
+}
